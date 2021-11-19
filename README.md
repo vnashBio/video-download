@@ -5,3 +5,4 @@
 Simple application that allows you to download videos from any web url.<br>
 This application uses Beautiful soup module to fetch data from the url, splits and sorts through the <br>
 video links and then downloads all the videos from that link. <br>
+@CodeName-Spaz and @Will1ngt0n
